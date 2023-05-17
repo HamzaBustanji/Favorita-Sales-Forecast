@@ -3,7 +3,7 @@
 <img src="https://github.com/HamzaBustanji/Favorita-Sales-Forecast/blob/main/images/download%20(1).svg"  width='60%' height='60%' align="right">
 
 ## Data 
-The Data was provided in this [Kaggle competition.](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data).
+The Data was provided in this [Kaggle competition.](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 ## Summary
 The aim of this project was to provide the giant Ecuadorian retailer, Favorita, with accurate monthly forecasts for the next quarter.
