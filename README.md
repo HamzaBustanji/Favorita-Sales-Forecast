@@ -21,10 +21,15 @@ The steps we took to accomplish this task were:
 * We plotted holidays
 * We looked into which stores had the highest sales, then used color to visualize whether the region the store is in played a role as well
 * We investigated the seasonality and the trend in sales
+
+<img src="https://github.com/HamzaBustanji/Favorita-Sales-Forecast/blob/main/images/Screen%20Shot%202023-04-25%20at%2011.12.00%20AM.png"  width='60%' height='60%' align="right">
+
 * We performed an ETS decomposition
 * We produced lag plots and auto-correlation plots 
 * We visualized inflation, adjusted the sales for inflation, and plotted regular sales and inflation-adjusted sales
 * We performed a Dickie-Fuller stationarity test
+
+
 
 ### Preprocessing and Modeling [[notebook]](https://github.com/HamzaBustanji/Favorita-Sales-Forecast/blob/main/notebooks/3-preprocessing-and-modeling.ipynb)
 * We performed a train/test split
